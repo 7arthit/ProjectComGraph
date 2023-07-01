@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1681091567 source:c:\users\arthit thaweebot\gl\projectcomgraph\main.c
+	<windows.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	<gl\glut.h>
+	<stdio.h>
+	<math.h>
+
